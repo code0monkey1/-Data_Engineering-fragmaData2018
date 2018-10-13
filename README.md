@@ -4,12 +4,20 @@
 -----------
 <img src="images/fd2.png" width="1000" >
 -----------
+Question 1 :
+------------
 <img src="images/q1.png" width="1000" >
 -----------
+Question 2 :
+------------
 <img src="images/q2.png" width="1000" >
 -----------
+Question 3 :
+------------
 <img src="images/q3.png" width="1000" >
 -----------
+Question 4 :
+------------
 <img src="images/q4.png" width="1000" >
 -----------
 Interview experience with Fragma Data , Bangalore  
