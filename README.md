@@ -1,8 +1,6 @@
 # fragmaData2018
 
 
-
-
 Interview experience with Fragma Data , Bangalore  
 
 I believe this post is going to be helpful to a lot of people looking to work at start-ups and particularly at Fragma Data , since this company does not have a glassdoor page , not any google- able past questions / answers to help a candidate know what expect  … 
@@ -108,9 +106,11 @@ Second Interviewer :  So, what my colleague is trying to ask is that , say if th
 Me : not at all … A class is declared an Abstract class primarily because it’s intended to never be initialized … It’s an abstract representation of something concrete , and It can’t be initialized to a concrete thing , as it’s abstract …  only the classes that extend it , can be initialised , as they’re concrete …. 
 
 Second interviewer : ok ! Great 
+
 First interviewer : There are 2 type of polymorphic behaviors that’s seen in java right … what are they .. 
 
 Me : yeah so there’s runtime polymorphishm and compile time polymorphism ..
+
 Interviewer : So type of polumorphism happens when you called the validate criteria in you methods … 
 
 Me : That was runtime polymorphism in action , as at runtime , the interface provided a generic validate function , but at runtime the specific function body of valide as per the class that was invocated was executed ….
@@ -128,6 +128,7 @@ Second Interviewr : Have you heard of the Singleton design pattern
 Me :Yes , if you ever need just one instance of an object , you can define it’s constructur private and use a static method instead to create a single instance of this class …
 
 Second Interviwere : Right , so have you ever used it in any project ? 
+
 Me : No not really ,  I never came across a scenario where I had to use it … 
 Second Interviewer : Ok ! 
 
@@ -175,6 +176,7 @@ Ok ( my name ) So I’ll have a talk with the hiring committee and get back to y
 Me : Sure , nice talking to you , have a good day ahead !
 
 CFO : you too ! bye ! 
+
                 ---------------------- END of Call -------------------------
 
 
@@ -196,14 +198,18 @@ Me : Ok ! so I’m not selected, right got it , all the best to you and your tea
 
 Coordinator : Ok !
 
----------------------------- END-----------------------
+
+------------------ END OF PHONE CALL ---------------------- 
+
 
 Analysis : 
 
 So where did I go wrong ? Any guesses ? 
 
  After talking to my friends who had worked at startups with intial salary ranging from ( 3 - 18 thousand per month ) , the primary reason for my rejection was THE SALARAY EXPECTATION of 40 k ! 
+ 
 My friends say , that they probably hired 4 people for that price giving 10 k to each …
+
 However , I did know that startups in general pay peanuts in the name of salary , but then there are 2 types of startups ( bootstrapped  and unicorns ) 
 
 1.	Bootstrapped start-ups only objective is to save as much money as possible while  hiring people that may not be great , but good enough and willing to get the job done at the minimum possible price …..
