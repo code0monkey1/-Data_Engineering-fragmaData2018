@@ -20,6 +20,10 @@ Question 4 :
 ------------
 <img src="images/q4.png" width="1000" >
 -----------
+UML Representiation:
+-----------
+<img src="images/fragmaooad.png" width="1000" >
+-----------
 Interview experience with Fragma Data , Bangalore  
 
 I believe this post is going to be helpful to a lot of people looking to work at start-ups and particularly at Fragma Data , since this company does not have a glassdoor page , not any google- able past questions / answers to help a candidate know what expect  … 
