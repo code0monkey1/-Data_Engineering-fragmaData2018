@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="fragmaData" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Application" />
+    <module name="fragmaData" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

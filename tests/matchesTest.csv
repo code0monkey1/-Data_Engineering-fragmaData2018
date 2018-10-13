@@ -1,0 +1,4 @@
+MATCH_ID,SEASON,CITY,DATE,TEAM1,TEAM2,TOSS_WINNER,TOSS_DECISION,RESULT,WINNER
+1,2017,Hyderabad,2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+2,2017,Pune,2017-04-06,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,tie,Rising Pune Supergiant
+3,2017,Pune,2017-04-06,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,no result,Rising Pune Supergiant

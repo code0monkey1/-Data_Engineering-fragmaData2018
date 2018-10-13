@@ -1,0 +1,4 @@
+MATCH_ID,INNING,BATTING_TEAM,BOWLING_TEAM,OVER,BALL,BATSMAN,BOWLER,WIDE_RUNS,BYE_RUNS,LEGBYE_RUNS,NOBALL_RUNS,PENALTY_RUNS,BATSMAN_RUNS,EXTRA_RUNS,TOTAL_RUNS
+1,1,Sunrisers Hyderabad,Royal Challengers Bangalore,1,1,DA Warner,TS Mills,0,0,0,0,0,0,0,0
+1,1,Sunrisers Hyderabad,Royal Challengers Bangalore,1,2,DA Warner,TS Mills,0,0,0,0,0,0,0,5
+1,2,Royal Challengers Bangalore,Sunrisers Hyderabad,2,1,CH Gayle,B Kumar,0,0,0,0,0,0,0,10
