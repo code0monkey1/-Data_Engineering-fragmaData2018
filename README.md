@@ -198,8 +198,7 @@ Me : Ok ! so I’m not selected, right got it , all the best to you and your tea
 
 Coordinator : Ok !
 
-
------------------- END OF PHONE CALL ---------------------- 
+       ------------------ END OF PHONE CALL ---------------------- 
 
 
 Analysis : 
