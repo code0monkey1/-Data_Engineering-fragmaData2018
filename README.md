@@ -1,8 +1,8 @@
 # fragmaData2018
 
-<img src="images/fdcp1.png" width="1000" >
+<img src="images/fd1.png" width="1000" >
 -----------
-<img src="images/fdcp2.png" width="1000" >
+<img src="images/fd2.png" width="1000" >
 -----------
 <img src="images/q1.png" width="1000" >
 -----------
