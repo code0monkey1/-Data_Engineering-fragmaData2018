@@ -262,13 +262,5 @@ It just leaves a bad taste in your mouth …..
 
 You probably would not want you get back with this person ever ,  glass once broken cannot be mended , nor can a relationship ( generally ) … It’s just better to start a new relationship with someone , learn from your mistakes and not repeat the  mistakes you made in the previous relationship …..
 
-Similarly , it’s better to try with other companies and not repeat the mistake you made with the previous company 
-
-
-*I’ve tried to document everything as detailed as I could , if there are any other doubts in your mind , do put them in the comments and I’ll try to answer them 
-
-** the Uml diagram , my linkdin profile ( I’m open to be hired  * wink *) and GitHub repo link  is attached with this post 
-
-*** This will be put up on glassdoors too as no reviews exist at present for Fragma Data 
-
+Similarly , it’s better to try with other companies and not repeat the mistake you made with the previous company 
 
