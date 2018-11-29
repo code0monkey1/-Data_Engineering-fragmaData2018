@@ -232,6 +232,9 @@ So where did I go wrong ? Any guesses ?
  
 My friends say , that they probably hired 4 people for that price giving 10 k to each …
 
+Update : 
+https://www.indeed.co.in/salaries/Java-Developer-Salaries-at-Fragma-Data-Systems,-Karnataka
+
 However , I did know that startups in general pay peanuts in the name of salary , but then there are 2 types of startups ( bootstrapped  and unicorns ) 
 
 1.	Bootstrapped start-ups only objective is to save as much money as possible while  hiring people that may not be great , but good enough and willing to get the job done at the minimum possible price …..
@@ -263,4 +266,6 @@ It just leaves a bad taste in your mouth …..
 You probably would not want you get back with this person ever ,  glass once broken cannot be mended , nor can a relationship ( generally ) … It’s just better to start a new relationship with someone , learn from your mistakes and not repeat the  mistakes you made in the previous relationship …..
 
 Similarly , it’s better to try with other companies and not repeat the mistake you made with the previous company 
+
+
 
