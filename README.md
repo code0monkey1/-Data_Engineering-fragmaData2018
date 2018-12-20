@@ -263,9 +263,5 @@ Probably not ….. I don’t have any complains  as such from the fragma team , 
 Then suddenly something happens… and the other person breaks up with you over a whatapp message , and doesn’t even give you a proper expiation as to why (s)he took that step ….and the that person is GONE … and you see him/ her with another guy/girl some days later !!!
 It just leaves a bad taste in your mouth ….. 
 
-You probably would not want you get back with this person ever ,  glass once broken cannot be mended , nor can a relationship ( generally ) … It’s just better to start a new relationship with someone , learn from your mistakes and not repeat the  mistakes you made in the previous relationship …..
-
-Similarly , it’s better to try with other companies and not repeat the mistake you made with the previous company 
-
 
 
