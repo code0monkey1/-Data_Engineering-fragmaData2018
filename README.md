@@ -26,7 +26,7 @@ UML Representiation:
 -----------
 Interview experience with Fragma Data , Bangalore  
 
-I believe this post is going to be helpful to a lot of people looking to work at start-ups and particularly at Fragma Data , since this company does not have a glassdoor page , not any google- able past questions / answers to help a candidate know what expect  … 
+I believe this post is going to be helpful to a lot of people looking to work at start-ups and particularly at Fragma Data , since this company does not have a glassdoor page , nor any google- able past questions / answers to help a candidate know what expect  … 
 
 Read it like a story from top to bottom … it’ll be the most fun that way…  :)   
 
